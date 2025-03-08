@@ -1,0 +1,111 @@
+.leftPage {
+    border-radius: 30px;
+    margin:auto;
+    border: 1px solid gray;
+    width: 90%;   
+
+}
+
+.floatLeft{
+    width: 55%;
+    float: left;
+}
+
+/* .floatRight{
+    float:"right";
+    width:40%; 
+    margin-top:10%; 
+} */
+
+.leftPageContent{
+    width: 90% ;
+    margin: auto ;
+    padding:1% ;
+    
+}
+
+.leftPageHeaderSearch{
+    padding-left: 20%;
+    display: inline;
+    width: 10%;
+}
+
+.FloatRightbutton{
+    display: inline;
+    float: right;
+}
+
+.RightButton{
+    background-color: #FFE4B5;
+    height: 25px;
+}
+
+.otherDataButton{
+    background-color: #bfbfbf;
+    border: none;
+    height: 30px;
+    font-weight: bold;
+
+}
+
+.IdClicked{
+    background-color:#FFA07A;
+    border-color: red;
+    
+}
+
+.userComp{
+    border: 1px solid;
+    position: relative;
+    padding:5px 20px;
+    overflow: hidden; 
+    margin-bottom: 3%;
+
+}
+
+.RightPage{
+    float:right;
+    width:40%;
+    margin-top:10%;
+    margin-right:1%;
+}
+
+.AddUserComp{
+    border: 1px solid;
+    height:150px;
+    padding:3% 5%;
+    overflow: hidden;
+}
+
+input{
+    width: 40%;
+    height: 20px;
+    margin-bottom: 1%;
+}
+
+.otherDataComp{
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 2%;
+    margin: 1%;
+    background-color: #e3e3e3;
+}
+
+.TodoAndPostBorder{
+    border: 2px solid #663399;
+    overflow: hidden;
+    margin:2%;
+    padding: 2%;
+}
+
+.AddTodoAndPost{
+    border: 1px solid; 
+    overflow:hidden;
+    padding:4%;
+    margin-top: 2%;
+}
+
+.FlowCotainer{
+    overflow: hidden;
+    margin-bottom: 1%;
+}
